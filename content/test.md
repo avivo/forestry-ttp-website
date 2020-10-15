@@ -10,8 +10,8 @@ navigation = []
 template = "navigation-header"
 [[page_sections]]
 block = "feature-1"
-content = ""
-headline = ""
+content = "Text"
+headline = "Testing"
 media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
