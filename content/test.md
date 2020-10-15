@@ -15,7 +15,7 @@ headline = ""
 media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
-alt_text = ""
-image = ""
+alt_text = "Gandalf"
+image = "/uploads/66dbdbd94dea70fcf8b7e103b6eb25749f65cfdf.jpg"
 
 +++
